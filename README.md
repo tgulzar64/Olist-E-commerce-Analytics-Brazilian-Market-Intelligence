@@ -471,6 +471,13 @@ GitHub Repository: https://github.com/yourusername/olist-ecommerce-analytics
 
 ---
 
+## 📄 Copyright & Usage
+
+© 2025 Talha Gulzar. All rights reserved.
+
+This project is shared for **portfolio and educational purposes only**. Unauthorized copying, distribution, or use of this code or analysis is prohibited without explicit permission from the author.
+
+
 *⭐ If this project helped you understand geospatial analytics, customer behavior analysis, or e-commerce strategy, please consider giving it a star!*
 
 ---
