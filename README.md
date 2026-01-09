@@ -28,7 +28,7 @@ This project addresses three strategic questions for Olist leadership:
 **Business Value:** Identifying high-impact opportunities to reduce operational costs and improve customer satisfaction through targeted logistics investments.
 
 ### **3. Revenue Optimization & Market Segmentation**
-**Question:** Which cities demonstrate higher-than-average order values (AOV), and how do specific product categories influence these values in top-performing cities?
+**Question:** Which cities demonstrate higher-than-average order values (AOV), and how do specific product categories influence these values in top-performing cities? Check out in following link : https://public.tableau.com/app/profile/talha.gulzar4185/viz/TableauBrazilionGraph/QuestionNo3
 
 **Business Value:** Enabling data-driven decisions for inventory allocation, regional marketing campaigns, and product mix optimization to maximize profitability.
 
